@@ -53,6 +53,8 @@ body{
 
 
 
+/*---my advise section style */
+
 
 .advise{
 
@@ -70,14 +72,12 @@ body{
 }
 
 
-
 .advise-description{
 
     width: 416px;
     font-weight: 400;
     font-size: 20px;
 }
-
 
 .some-advise{
 
@@ -88,5 +88,42 @@ body{
 .font{
 
     margin-right: 10px;
+    color: green;
 }
 
+
+
+/* my plan section start */
+
+.my-plan{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 113px;
+}
+
+.plan{
+    margin-left: 86px;
+}
+
+.plan-title{
+
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+  
+ 
+}
+
+.plan .img{
+
+   padding-left: 35px;
+}
+
+.habit{
+
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
