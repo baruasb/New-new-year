@@ -31,6 +31,7 @@ body{
 .header-description{
    font-size: 16px;
    font-weight: 400;
+   width: 400px;
    
 }
 
@@ -68,14 +69,24 @@ body{
    align-items: center;
 }
 
+
+
 .advise-description{
 
     width: 416px;
+    font-weight: 400;
+    font-size: 20px;
 }
+
 
 .some-advise{
 
-display: flex;
-flex-direction: column;
- 
+    margin-top: 50px;
+    width: 349px;
 }
+
+.font{
+
+    margin-right: 10px;
+}
+
