@@ -127,3 +127,51 @@ body{
     font-size: 25px;
     color: #737272;
 }
+
+
+
+
+
+
+
+
+
+.call-section{
+
+    padding: 55px;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+
+}
+
+.call-section{
+
+    background-image: linear-gradient(to left, rgba(255,165,0,0), rgba(255,165,0,1)) ,  url(images/watch.png);
+    background-repeat: no-repeat;
+}
+
+
+
+
+.call-section-banner{
+    
+    
+    width: 1126px; ;
+    margin-left: 234px;
+    margin-top: 137px;
+    
+    
+ }
+
+.call-button{
+
+    color: #F15B22 ;
+    background-color: white;
+    border-style: none;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 21px;
+    border-radius: 5px;
+    
+}
