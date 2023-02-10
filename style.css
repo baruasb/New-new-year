@@ -132,7 +132,7 @@ body{
 
 
 
-
+/* calll -section style*/
 
 
 
@@ -149,6 +149,7 @@ body{
 
     background-image: linear-gradient(to left, rgba(255,165,0,0), rgba(255,165,0,1)) ,  url(images/watch.png);
     background-repeat: no-repeat;
+    border-radius: 5px;
 }
 
 
@@ -160,6 +161,7 @@ body{
     width: 1126px; ;
     margin-left: 234px;
     margin-top: 137px;
+   
     
     
  }
@@ -174,4 +176,45 @@ body{
     padding: 20px 21px;
     border-radius: 5px;
     
+}
+
+
+/* foooter section style */
+
+
+.footer-section{
+
+    background-color: black;
+    padding: 60px;
+    margin-top: 130px;
+    display: flex;
+}
+
+
+.footer-description{
+
+    color: white;
+    margin-left: 230px;
+    width: 485px ;
+}
+
+
+
+.suscribe {
+
+    margin-left: 150px;
+}
+.sub-title{
+    color: white;
+}
+
+#text-box{
+
+    padding: 20px 25px;
+    border-radius: 5px;
+}
+
+.icon{
+
+    margin-left: 20px;
 }
